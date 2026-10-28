@@ -1,0 +1,244 @@
+[
+ {
+  "id": "pinned_1_start_here",
+  "type": "image",
+  "files": [
+   "media/pinned/1_start_here.jpg"
+  ],
+  "caption": "Hi, I'm Kira — a QA engineer 👋\n\nHere I share testing tips for manual and automation testers, interview prep from Junior to Senior and my study notes. Follow for daily QA tips!\n\n#qa #softwaretesting #qatester #sdet #qacommunity"
+ },
+ {
+  "id": "reel_01_7_testing_principles",
+  "type": "reel",
+  "files": [
+   "media/reels/01_7_testing_principles.mp4"
+  ],
+  "caption": "7 testing principles every QA gets asked about in interviews. Which one do you always forget?\n\nFull notes + free interview checklist — link in bio.\nComment GUIDE and I'll send you my free Top-40 QA interview checklist.\n\n#qa #softwaretesting #istqb #qatester #interviewprep"
+ },
+ {
+  "id": "carousel_01_qa_vs_qc_vs_testing",
+  "type": "carousel",
+  "files": [
+   "media/carousels/01_qa_vs_qc_vs_testing/01.jpg",
+   "media/carousels/01_qa_vs_qc_vs_testing/02.jpg",
+   "media/carousels/01_qa_vs_qc_vs_testing/03.jpg",
+   "media/carousels/01_qa_vs_qc_vs_testing/04.jpg",
+   "media/carousels/01_qa_vs_qc_vs_testing/05.jpg",
+   "media/carousels/01_qa_vs_qc_vs_testing/06.jpg",
+   "media/carousels/01_qa_vs_qc_vs_testing/07.jpg"
+  ],
+  "caption": "QA, QC and testing are not the same thing. Save this for your next interview!\n\nSwipe → and save it for later.\nComment GUIDE and I'll send you my free Top-40 QA interview checklist.\n\n#qa #softwaretesting #qatester #istqb #interviewprep"
+ },
+ {
+  "id": "reel_02_severity_vs_priority",
+  "type": "reel",
+  "files": [
+   "media/reels/02_severity_vs_priority.mp4"
+  ],
+  "caption": "Severity vs priority with 4 real examples — the classic QA interview question.\n\nFull notes + free interview checklist — link in bio.\nComment GUIDE and I'll send you my free Top-40 QA interview checklist.\n\n#qa #bugreport #softwaretesting #qatester #testingtips"
+ },
+ {
+  "id": "carousel_03_smoke_sanity_regression",
+  "type": "carousel",
+  "files": [
+   "media/carousels/03_smoke_sanity_regression/01.jpg",
+   "media/carousels/03_smoke_sanity_regression/02.jpg",
+   "media/carousels/03_smoke_sanity_regression/03.jpg",
+   "media/carousels/03_smoke_sanity_regression/04.jpg",
+   "media/carousels/03_smoke_sanity_regression/05.jpg",
+   "media/carousels/03_smoke_sanity_regression/06.jpg",
+   "media/carousels/03_smoke_sanity_regression/07.jpg"
+  ],
+  "caption": "Smoke, sanity and regression — the difference in 5 slides.\n\nSwipe → and save it for later.\nComment GUIDE and I'll send you my free Top-40 QA interview checklist.\n\n#qa #regressiontesting #softwaretesting #qatester #testingtips"
+ },
+ {
+  "id": "reel_03_bug_report_title",
+  "type": "reel",
+  "files": [
+   "media/reels/03_bug_report_title.mp4"
+  ],
+  "caption": "A good bug title answers where, what and when. Save this for your next bug report.\n\nFull notes + free interview checklist — link in bio.\nComment GUIDE and I'll send you my free Top-40 QA interview checklist.\n\n#qa #bugreport #softwaretesting #qatester #juniorqa"
+ },
+ {
+  "id": "pinned_2_free_guide",
+  "type": "image",
+  "files": [
+   "media/pinned/2_free_guide.jpg"
+  ],
+  "caption": "Free: 40 real QA interview questions from Junior to Senior, manual and automation.\n\nComment GUIDE and I'll DM you the PDF 📩\n\n#qainterview #interviewprep #qa #softwaretesting #juniorqa"
+ },
+ {
+  "id": "reel_04_boundary_values_age_18_30",
+  "type": "reel",
+  "files": [
+   "media/reels/04_boundary_values_age_18_30.mp4"
+  ],
+  "caption": "Boundary value analysis + equivalence partitioning in 20 seconds.\n\nFull notes + free interview checklist — link in bio.\nComment GUIDE and I'll send you my free Top-40 QA interview checklist.\n\n#qa #testdesign #boundaryvalue #softwaretesting #qatester"
+ },
+ {
+  "id": "carousel_02_test_case_template",
+  "type": "carousel",
+  "files": [
+   "media/carousels/02_test_case_template/01.jpg",
+   "media/carousels/02_test_case_template/02.jpg",
+   "media/carousels/02_test_case_template/03.jpg",
+   "media/carousels/02_test_case_template/04.jpg",
+   "media/carousels/02_test_case_template/05.jpg",
+   "media/carousels/02_test_case_template/06.jpg",
+   "media/carousels/02_test_case_template/07.jpg"
+  ],
+  "caption": "A test case template you can copy today — with a real example.\n\nSwipe → and save it for later.\nComment GUIDE and I'll send you my free Top-40 QA interview checklist.\n\n#testcase #qa #softwaretesting #manualtesting #juniorqa"
+ },
+ {
+  "id": "reel_05_http_status_codes",
+  "type": "reel",
+  "files": [
+   "media/reels/05_http_status_codes.mp4"
+  ],
+  "caption": "HTTP status codes every tester must know. 401 vs 403 is a favourite interview question!\n\nFull notes + free interview checklist — link in bio.\nComment GUIDE and I'll send you my free Top-40 QA interview checklist.\n\n#apitesting #qa #softwaretesting #http #qaengineer"
+ },
+ {
+  "id": "carousel_09_how_to_test_login",
+  "type": "carousel",
+  "files": [
+   "media/carousels/09_how_to_test_login/01.jpg",
+   "media/carousels/09_how_to_test_login/02.jpg",
+   "media/carousels/09_how_to_test_login/03.jpg",
+   "media/carousels/09_how_to_test_login/04.jpg",
+   "media/carousels/09_how_to_test_login/05.jpg",
+   "media/carousels/09_how_to_test_login/06.jpg",
+   "media/carousels/09_how_to_test_login/07.jpg"
+  ],
+  "caption": "How to test a login form — the answer interviewers want to hear.\n\nSwipe → and save it for later.\nComment GUIDE and I'll send you my free Top-40 QA interview checklist.\n\n#qa #softwaretesting #interviewprep #qatester #testcases"
+ },
+ {
+  "id": "reel_06_5_sql_queries_for_testers",
+  "type": "reel",
+  "files": [
+   "media/reels/06_5_sql_queries_for_testers.mp4"
+  ],
+  "caption": "5 SQL queries testers use every week. Save it before your next interview.\n\nFull notes + free interview checklist — link in bio.\nComment GUIDE and I'll send you my free Top-40 QA interview checklist.\n\n#sql #sqlfortesters #qa #softwaretesting #qaengineer"
+ },
+ {
+  "id": "carousel_10_junior_interview_questions",
+  "type": "carousel",
+  "files": [
+   "media/carousels/10_junior_interview_questions/01.jpg",
+   "media/carousels/10_junior_interview_questions/02.jpg",
+   "media/carousels/10_junior_interview_questions/03.jpg",
+   "media/carousels/10_junior_interview_questions/04.jpg",
+   "media/carousels/10_junior_interview_questions/05.jpg",
+   "media/carousels/10_junior_interview_questions/06.jpg",
+   "media/carousels/10_junior_interview_questions/07.jpg"
+  ],
+  "caption": "5 questions you'll hear in almost every Junior QA interview.\n\nSwipe → and save it for later.\nComment GUIDE and I'll send you my free Top-40 QA interview checklist.\n\n#qainterview #juniorqa #qa #softwaretesting #careerchange"
+ },
+ {
+  "id": "reel_07_playwright_locators",
+  "type": "reel",
+  "files": [
+   "media/reels/07_playwright_locators.mp4"
+  ],
+  "caption": "Which Playwright locator to use first? Follow this order and your tests stop breaking.\n\nFull notes + free interview checklist — link in bio.\nComment GUIDE and I'll send you my free Top-40 QA interview checklist.\n\n#playwright #testautomation #sdet #automationtesting #qa"
+ },
+ {
+  "id": "pinned_3_study_notes",
+  "type": "image",
+  "files": [
+   "media/pinned/3_study_notes.jpg"
+  ],
+  "caption": "My QA study notes — from your first QA job to Senior and automation.\n\nInstant PDF on Etsy, link in bio. Code NEXTLEVEL15 = -15%.\n\n#qa #studynotes #softwaretesting #testautomation #qacareer"
+ },
+ {
+  "id": "reel_08_why_sleep_is_flaky",
+  "type": "reel",
+  "files": [
+   "media/reels/08_why_sleep_is_flaky.mp4"
+  ],
+  "caption": "Fixed waits are the #1 cause of flaky UI tests. Here's what to use instead.\n\nFull notes + free interview checklist — link in bio.\nComment GUIDE and I'll send you my free Top-40 QA interview checklist.\n\n#playwright #flakytests #testautomation #sdet #qa"
+ },
+ {
+  "id": "carousel_04_bug_life_cycle",
+  "type": "carousel",
+  "files": [
+   "media/carousels/04_bug_life_cycle/01.jpg",
+   "media/carousels/04_bug_life_cycle/02.jpg",
+   "media/carousels/04_bug_life_cycle/03.jpg",
+   "media/carousels/04_bug_life_cycle/04.jpg",
+   "media/carousels/04_bug_life_cycle/05.jpg",
+   "media/carousels/04_bug_life_cycle/06.jpg",
+   "media/carousels/04_bug_life_cycle/07.jpg"
+  ],
+  "caption": "The bug life cycle every junior QA should know by heart.\n\nSwipe → and save it for later.\nComment GUIDE and I'll send you my free Top-40 QA interview checklist.\n\n#bugreport #qa #softwaretesting #qatester #juniorqa"
+ },
+ {
+  "id": "reel_09_page_object_model",
+  "type": "reel",
+  "files": [
+   "media/reels/09_page_object_model.mp4"
+  ],
+  "caption": "Page Object Model explained in 20 lines of Playwright code.\n\nFull notes + free interview checklist — link in bio.\nComment GUIDE and I'll send you my free Top-40 QA interview checklist.\n\n#pageobjectmodel #playwright #testautomation #sdet #typescript"
+ },
+ {
+  "id": "carousel_06_test_design_techniques",
+  "type": "carousel",
+  "files": [
+   "media/carousels/06_test_design_techniques/01.jpg",
+   "media/carousels/06_test_design_techniques/02.jpg",
+   "media/carousels/06_test_design_techniques/03.jpg",
+   "media/carousels/06_test_design_techniques/04.jpg",
+   "media/carousels/06_test_design_techniques/05.jpg",
+   "media/carousels/06_test_design_techniques/06.jpg",
+   "media/carousels/06_test_design_techniques/07.jpg"
+  ],
+  "caption": "5 black-box test design techniques every QA uses.\n\nSwipe → and save it for later.\nComment GUIDE and I'll send you my free Top-40 QA interview checklist.\n\n#testdesign #qa #softwaretesting #boundaryvalue #istqb"
+ },
+ {
+  "id": "reel_10_contract_testing",
+  "type": "reel",
+  "files": [
+   "media/reels/10_contract_testing.mp4"
+  ],
+  "caption": "Contract testing in one diagram — catch integration bugs without a full E2E environment.\n\nFull notes + free interview checklist — link in bio.\nComment GUIDE and I'll send you my free Top-40 QA interview checklist.\n\n#contracttesting #pact #microservices #sdet #testautomation"
+ },
+ {
+  "id": "carousel_07_api_testing_checklist",
+  "type": "carousel",
+  "files": [
+   "media/carousels/07_api_testing_checklist/01.jpg",
+   "media/carousels/07_api_testing_checklist/02.jpg",
+   "media/carousels/07_api_testing_checklist/03.jpg",
+   "media/carousels/07_api_testing_checklist/04.jpg",
+   "media/carousels/07_api_testing_checklist/05.jpg",
+   "media/carousels/07_api_testing_checklist/06.jpg",
+   "media/carousels/07_api_testing_checklist/07.jpg"
+  ],
+  "caption": "API testing checklist — save it for your next endpoint.\n\nSwipe → and save it for later.\nComment GUIDE and I'll send you my free Top-40 QA interview checklist.\n\n#apitesting #qa #postman #softwaretesting #qaengineer"
+ },
+ {
+  "id": "carousel_05_test_levels",
+  "type": "carousel",
+  "files": [
+   "media/carousels/05_test_levels/01.jpg",
+   "media/carousels/05_test_levels/02.jpg",
+   "media/carousels/05_test_levels/03.jpg",
+   "media/carousels/05_test_levels/04.jpg",
+   "media/carousels/05_test_levels/05.jpg",
+   "media/carousels/05_test_levels/06.jpg"
+  ],
+  "caption": "Unit, integration, system, acceptance — with one example for each.\n\nSwipe → and save it for later.\nComment GUIDE and I'll send you my free Top-40 QA interview checklist.\n\n#qa #softwaretesting #istqb #testlevels #qatester"
+ },
+ {
+  "id": "carousel_08_test_automation_pyramid",
+  "type": "carousel",
+  "files": [
+   "media/carousels/08_test_automation_pyramid/01.jpg",
+   "media/carousels/08_test_automation_pyramid/02.jpg",
+   "media/carousels/08_test_automation_pyramid/03.jpg",
+   "media/carousels/08_test_automation_pyramid/04.jpg",
+   "media/carousels/08_test_automation_pyramid/05.jpg",
+   "media/carousels/08_test_automation_pyramid/06.jpg"
+  ],
+  "caption": "The test automation pyramid in 4 slides.\n\nSwipe → and save it for later.\nComment GUIDE and I'll send you my free Top-40 QA interview checklist.\n\n#testautomation #sdet #playwright #qa #automationtesting"
+ }
+]

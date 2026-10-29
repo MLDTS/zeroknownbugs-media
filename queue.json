@@ -69,6 +69,15 @@
   "caption": "🎁 Free PDF: Top 40 QA interview questions — Junior to Senior, manual + automation.\n\n👇 Comment GUIDE below and I'll send it to your DMs.\n\nAnswer each question out loud — if you can, it's passed ✅\n\n#qainterview #interviewprep #qa #softwaretesting #juniorqa #qatester #sdet"
  },
  {
+  "id": "find_the_bug_01_login_form",
+  "type": "carousel",
+  "files": [
+   "media/find_the_bug/01_login_form/01.jpg",
+   "media/find_the_bug/01_login_form/02.jpg"
+  ],
+  "caption": "Find the bug 🐞 Login form edition. How many did you spot? Comment your number BEFORE you swipe 👀\n\nAnswer on slide 2 — no peeking! 😉\n📌 Free Top-40 QA interview checklist: comment GUIDE under my pinned post and I'll DM it to you.\n\n#findthebug #qa #softwaretesting #qatester #testing #qachallenge"
+ },
+ {
   "id": "reel_04_boundary_values_age_18_30",
   "type": "reel",
   "files": [
@@ -113,6 +122,15 @@
   "caption": "How to test a login form — the answer interviewers want to hear.\n\nSwipe → and save it for later.\n📌 Free Top-40 QA interview checklist: comment GUIDE under my pinned post and I'll DM it to you.\n\n#qa #softwaretesting #interviewprep #qatester #testcases"
  },
  {
+  "id": "find_the_bug_02_checkout",
+  "type": "carousel",
+  "files": [
+   "media/find_the_bug/02_checkout/01.jpg",
+   "media/find_the_bug/02_checkout/02.jpg"
+  ],
+  "caption": "Find the bug 🐞 Checkout edition — money bugs are the expensive ones! How many can you find? 👇\n\nAnswer on slide 2 — no peeking! 😉\n📌 Free Top-40 QA interview checklist: comment GUIDE under my pinned post and I'll DM it to you.\n\n#findthebug #ecommercetesting #qa #softwaretesting #qatester #qachallenge"
+ },
+ {
   "id": "reel_06_5_sql_queries_for_testers",
   "type": "reel",
   "files": [
@@ -141,6 +159,15 @@
    "media/reels/07_playwright_locators.mp4"
   ],
   "caption": "Which Playwright locator to use first? Follow this order and your tests stop breaking.\n\nFull notes + free interview checklist — link in bio.\n📌 Free Top-40 QA interview checklist: comment GUIDE under my pinned post and I'll DM it to you.\n\n#playwright #testautomation #sdet #automationtesting #qa"
+ },
+ {
+  "id": "find_the_bug_03_signup_validation",
+  "type": "carousel",
+  "files": [
+   "media/find_the_bug/03_signup_validation/01.jpg",
+   "media/find_the_bug/03_signup_validation/02.jpg"
+  ],
+  "caption": "Find the bug 🐞 Validation edition. Which one would you report first? 👇\n\nAnswer on slide 2 — no peeking! 😉\n📌 Free Top-40 QA interview checklist: comment GUIDE under my pinned post and I'll DM it to you.\n\n#findthebug #formvalidation #qa #testcases #qatester #qachallenge"
  },
  {
   "id": "pinned_3_study_notes",
@@ -173,6 +200,15 @@
   "caption": "The bug life cycle every junior QA should know by heart.\n\nSwipe → and save it for later.\n📌 Free Top-40 QA interview checklist: comment GUIDE under my pinned post and I'll DM it to you.\n\n#bugreport #qa #softwaretesting #qatester #juniorqa"
  },
  {
+  "id": "find_the_bug_04_flight_search",
+  "type": "carousel",
+  "files": [
+   "media/find_the_bug/04_flight_search/01.jpg",
+   "media/find_the_bug/04_flight_search/02.jpg"
+  ],
+  "caption": "Find the bug 🐞 Travel edition ✈️ 5 bugs are hiding here — can you find them all? 👇\n\nAnswer on slide 2 — no peeking! 😉\n📌 Free Top-40 QA interview checklist: comment GUIDE under my pinned post and I'll DM it to you.\n\n#findthebug #qa #softwaretesting #qatester #testing #qachallenge"
+ },
+ {
   "id": "reel_09_page_object_model",
   "type": "reel",
   "files": [
@@ -201,6 +237,15 @@
    "media/reels/10_contract_testing.mp4"
   ],
   "caption": "Contract testing in one diagram — catch integration bugs without a full E2E environment.\n\nFull notes + free interview checklist — link in bio.\n📌 Free Top-40 QA interview checklist: comment GUIDE under my pinned post and I'll DM it to you.\n\n#contracttesting #pact #microservices #sdet #testautomation"
+ },
+ {
+  "id": "find_the_bug_05_product_page",
+  "type": "carousel",
+  "files": [
+   "media/find_the_bug/05_product_page/01.jpg",
+   "media/find_the_bug/05_product_page/02.jpg"
+  ],
+  "caption": "Find the bug 🐞 Product page edition. Bonus point if you'd write the bug title too ✍️\n\nAnswer on slide 2 — no peeking! 😉\n📌 Free Top-40 QA interview checklist: comment GUIDE under my pinned post and I'll DM it to you.\n\n#findthebug #qa #bugreport #softwaretesting #qatester #qachallenge"
  },
  {
   "id": "carousel_07_api_testing_checklist",
@@ -241,5 +286,275 @@
    "media/carousels/08_test_automation_pyramid/06.jpg"
   ],
   "caption": "The test automation pyramid in 4 slides.\n\nSwipe → and save it for later.\n📌 Free Top-40 QA interview checklist: comment GUIDE under my pinned post and I'll DM it to you.\n\n#testautomation #sdet #playwright #qa #automationtesting"
+ },
+ {
+  "id": "interview_q_01",
+  "type": "carousel",
+  "files": [
+   "media/interview_qotd/01/01.jpg",
+   "media/interview_qotd/01/02.jpg"
+  ],
+  "caption": "Interview question #1 of 30: What's the difference between QA, QC and testing?\n\nHow would you answer? Write it in the comments, then swipe for a strong answer 👉\nFollow so you don't miss tomorrow's question 🔔\n📌 Free Top-40 QA interview checklist: comment GUIDE under my pinned post and I'll DM it to you.\n\n#qainterview #interviewprep #qa #softwaretesting #qatester #30daychallenge"
+ },
+ {
+  "id": "interview_q_02",
+  "type": "carousel",
+  "files": [
+   "media/interview_qotd/02/01.jpg",
+   "media/interview_qotd/02/02.jpg"
+  ],
+  "caption": "Interview question #2 of 30: Verification vs validation?\n\nHow would you answer? Write it in the comments, then swipe for a strong answer 👉\nFollow so you don't miss tomorrow's question 🔔\n📌 Free Top-40 QA interview checklist: comment GUIDE under my pinned post and I'll DM it to you.\n\n#qainterview #interviewprep #qa #softwaretesting #qatester #30daychallenge"
+ },
+ {
+  "id": "interview_q_03",
+  "type": "carousel",
+  "files": [
+   "media/interview_qotd/03/01.jpg",
+   "media/interview_qotd/03/02.jpg"
+  ],
+  "caption": "Interview question #3 of 30: Severity vs priority?\n\nHow would you answer? Write it in the comments, then swipe for a strong answer 👉\nFollow so you don't miss tomorrow's question 🔔\n📌 Free Top-40 QA interview checklist: comment GUIDE under my pinned post and I'll DM it to you.\n\n#qainterview #interviewprep #qa #softwaretesting #qatester #30daychallenge"
+ },
+ {
+  "id": "interview_q_04",
+  "type": "carousel",
+  "files": [
+   "media/interview_qotd/04/01.jpg",
+   "media/interview_qotd/04/02.jpg"
+  ],
+  "caption": "Interview question #4 of 30: What is regression testing?\n\nHow would you answer? Write it in the comments, then swipe for a strong answer 👉\nFollow so you don't miss tomorrow's question 🔔\n📌 Free Top-40 QA interview checklist: comment GUIDE under my pinned post and I'll DM it to you.\n\n#qainterview #interviewprep #qa #softwaretesting #qatester #30daychallenge"
+ },
+ {
+  "id": "interview_q_05",
+  "type": "carousel",
+  "files": [
+   "media/interview_qotd/05/01.jpg",
+   "media/interview_qotd/05/02.jpg"
+  ],
+  "caption": "Interview question #5 of 30: Smoke vs sanity testing?\n\nHow would you answer? Write it in the comments, then swipe for a strong answer 👉\nFollow so you don't miss tomorrow's question 🔔\n📌 Free Top-40 QA interview checklist: comment GUIDE under my pinned post and I'll DM it to you.\n\n#qainterview #interviewprep #qa #softwaretesting #qatester #30daychallenge"
+ },
+ {
+  "id": "interview_q_06",
+  "type": "carousel",
+  "files": [
+   "media/interview_qotd/06/01.jpg",
+   "media/interview_qotd/06/02.jpg"
+  ],
+  "caption": "Interview question #6 of 30: What makes a good bug report?\n\nHow would you answer? Write it in the comments, then swipe for a strong answer 👉\nFollow so you don't miss tomorrow's question 🔔\n📌 Free Top-40 QA interview checklist: comment GUIDE under my pinned post and I'll DM it to you.\n\n#qainterview #interviewprep #qa #softwaretesting #qatester #30daychallenge"
+ },
+ {
+  "id": "interview_q_07",
+  "type": "carousel",
+  "files": [
+   "media/interview_qotd/07/01.jpg",
+   "media/interview_qotd/07/02.jpg"
+  ],
+  "caption": "Interview question #7 of 30: What is boundary value analysis?\n\nHow would you answer? Write it in the comments, then swipe for a strong answer 👉\nFollow so you don't miss tomorrow's question 🔔\n📌 Free Top-40 QA interview checklist: comment GUIDE under my pinned post and I'll DM it to you.\n\n#qainterview #interviewprep #qa #softwaretesting #qatester #30daychallenge"
+ },
+ {
+  "id": "interview_q_08",
+  "type": "carousel",
+  "files": [
+   "media/interview_qotd/08/01.jpg",
+   "media/interview_qotd/08/02.jpg"
+  ],
+  "caption": "Interview question #8 of 30: What is equivalence partitioning?\n\nHow would you answer? Write it in the comments, then swipe for a strong answer 👉\nFollow so you don't miss tomorrow's question 🔔\n📌 Free Top-40 QA interview checklist: comment GUIDE under my pinned post and I'll DM it to you.\n\n#qainterview #interviewprep #qa #softwaretesting #qatester #30daychallenge"
+ },
+ {
+  "id": "interview_q_09",
+  "type": "carousel",
+  "files": [
+   "media/interview_qotd/09/01.jpg",
+   "media/interview_qotd/09/02.jpg"
+  ],
+  "caption": "Interview question #9 of 30: What goes into a test plan?\n\nHow would you answer? Write it in the comments, then swipe for a strong answer 👉\nFollow so you don't miss tomorrow's question 🔔\n📌 Free Top-40 QA interview checklist: comment GUIDE under my pinned post and I'll DM it to you.\n\n#qainterview #interviewprep #qa #softwaretesting #qatester #30daychallenge"
+ },
+ {
+  "id": "interview_q_10",
+  "type": "carousel",
+  "files": [
+   "media/interview_qotd/10/01.jpg",
+   "media/interview_qotd/10/02.jpg"
+  ],
+  "caption": "Interview question #10 of 30: Test case vs checklist?\n\nHow would you answer? Write it in the comments, then swipe for a strong answer 👉\nFollow so you don't miss tomorrow's question 🔔\n📌 Free Top-40 QA interview checklist: comment GUIDE under my pinned post and I'll DM it to you.\n\n#qainterview #interviewprep #qa #softwaretesting #qatester #30daychallenge"
+ },
+ {
+  "id": "interview_q_11",
+  "type": "carousel",
+  "files": [
+   "media/interview_qotd/11/01.jpg",
+   "media/interview_qotd/11/02.jpg"
+  ],
+  "caption": "Interview question #11 of 30: What is exploratory testing?\n\nHow would you answer? Write it in the comments, then swipe for a strong answer 👉\nFollow so you don't miss tomorrow's question 🔔\n📌 Free Top-40 QA interview checklist: comment GUIDE under my pinned post and I'll DM it to you.\n\n#qainterview #interviewprep #qa #softwaretesting #qatester #30daychallenge"
+ },
+ {
+  "id": "interview_q_12",
+  "type": "carousel",
+  "files": [
+   "media/interview_qotd/12/01.jpg",
+   "media/interview_qotd/12/02.jpg"
+  ],
+  "caption": "Interview question #12 of 30: Black-box vs white-box testing?\n\nHow would you answer? Write it in the comments, then swipe for a strong answer 👉\nFollow so you don't miss tomorrow's question 🔔\n📌 Free Top-40 QA interview checklist: comment GUIDE under my pinned post and I'll DM it to you.\n\n#qainterview #interviewprep #qa #softwaretesting #qatester #30daychallenge"
+ },
+ {
+  "id": "interview_q_13",
+  "type": "carousel",
+  "files": [
+   "media/interview_qotd/13/01.jpg",
+   "media/interview_qotd/13/02.jpg"
+  ],
+  "caption": "Interview question #13 of 30: Name the test levels.\n\nHow would you answer? Write it in the comments, then swipe for a strong answer 👉\nFollow so you don't miss tomorrow's question 🔔\n📌 Free Top-40 QA interview checklist: comment GUIDE under my pinned post and I'll DM it to you.\n\n#qainterview #interviewprep #qa #softwaretesting #qatester #30daychallenge"
+ },
+ {
+  "id": "interview_q_14",
+  "type": "carousel",
+  "files": [
+   "media/interview_qotd/14/01.jpg",
+   "media/interview_qotd/14/02.jpg"
+  ],
+  "caption": "Interview question #14 of 30: Explain the defect life cycle.\n\nHow would you answer? Write it in the comments, then swipe for a strong answer 👉\nFollow so you don't miss tomorrow's question 🔔\n📌 Free Top-40 QA interview checklist: comment GUIDE under my pinned post and I'll DM it to you.\n\n#qainterview #interviewprep #qa #softwaretesting #qatester #30daychallenge"
+ },
+ {
+  "id": "interview_q_15",
+  "type": "carousel",
+  "files": [
+   "media/interview_qotd/15/01.jpg",
+   "media/interview_qotd/15/02.jpg"
+  ],
+  "caption": "Interview question #15 of 30: 401 vs 403?\n\nHow would you answer? Write it in the comments, then swipe for a strong answer 👉\nFollow so you don't miss tomorrow's question 🔔\n📌 Free Top-40 QA interview checklist: comment GUIDE under my pinned post and I'll DM it to you.\n\n#qainterview #interviewprep #qa #softwaretesting #qatester #30daychallenge"
+ },
+ {
+  "id": "interview_q_16",
+  "type": "carousel",
+  "files": [
+   "media/interview_qotd/16/01.jpg",
+   "media/interview_qotd/16/02.jpg"
+  ],
+  "caption": "Interview question #16 of 30: PUT vs PATCH?\n\nHow would you answer? Write it in the comments, then swipe for a strong answer 👉\nFollow so you don't miss tomorrow's question 🔔\n📌 Free Top-40 QA interview checklist: comment GUIDE under my pinned post and I'll DM it to you.\n\n#qainterview #interviewprep #qa #softwaretesting #qatester #30daychallenge"
+ },
+ {
+  "id": "interview_q_17",
+  "type": "carousel",
+  "files": [
+   "media/interview_qotd/17/01.jpg",
+   "media/interview_qotd/17/02.jpg"
+  ],
+  "caption": "Interview question #17 of 30: What does idempotent mean?\n\nHow would you answer? Write it in the comments, then swipe for a strong answer 👉\nFollow so you don't miss tomorrow's question 🔔\n📌 Free Top-40 QA interview checklist: comment GUIDE under my pinned post and I'll DM it to you.\n\n#qainterview #interviewprep #qa #softwaretesting #qatester #30daychallenge"
+ },
+ {
+  "id": "interview_q_18",
+  "type": "carousel",
+  "files": [
+   "media/interview_qotd/18/01.jpg",
+   "media/interview_qotd/18/02.jpg"
+  ],
+  "caption": "Interview question #18 of 30: How would you test an API endpoint?\n\nHow would you answer? Write it in the comments, then swipe for a strong answer 👉\nFollow so you don't miss tomorrow's question 🔔\n📌 Free Top-40 QA interview checklist: comment GUIDE under my pinned post and I'll DM it to you.\n\n#qainterview #interviewprep #qa #softwaretesting #qatester #30daychallenge"
+ },
+ {
+  "id": "interview_q_19",
+  "type": "carousel",
+  "files": [
+   "media/interview_qotd/19/01.jpg",
+   "media/interview_qotd/19/02.jpg"
+  ],
+  "caption": "Interview question #19 of 30: INNER JOIN vs LEFT JOIN?\n\nHow would you answer? Write it in the comments, then swipe for a strong answer 👉\nFollow so you don't miss tomorrow's question 🔔\n📌 Free Top-40 QA interview checklist: comment GUIDE under my pinned post and I'll DM it to you.\n\n#qainterview #interviewprep #qa #softwaretesting #qatester #30daychallenge"
+ },
+ {
+  "id": "interview_q_20",
+  "type": "carousel",
+  "files": [
+   "media/interview_qotd/20/01.jpg",
+   "media/interview_qotd/20/02.jpg"
+  ],
+  "caption": "Interview question #20 of 30: How do you find duplicates in SQL?\n\nHow would you answer? Write it in the comments, then swipe for a strong answer 👉\nFollow so you don't miss tomorrow's question 🔔\n📌 Free Top-40 QA interview checklist: comment GUIDE under my pinned post and I'll DM it to you.\n\n#qainterview #interviewprep #qa #softwaretesting #qatester #30daychallenge"
+ },
+ {
+  "id": "interview_q_21",
+  "type": "carousel",
+  "files": [
+   "media/interview_qotd/21/01.jpg",
+   "media/interview_qotd/21/02.jpg"
+  ],
+  "caption": "Interview question #21 of 30: Load vs stress vs soak testing?\n\nHow would you answer? Write it in the comments, then swipe for a strong answer 👉\nFollow so you don't miss tomorrow's question 🔔\n📌 Free Top-40 QA interview checklist: comment GUIDE under my pinned post and I'll DM it to you.\n\n#qainterview #interviewprep #qa #softwaretesting #qatester #30daychallenge"
+ },
+ {
+  "id": "interview_q_22",
+  "type": "carousel",
+  "files": [
+   "media/interview_qotd/22/01.jpg",
+   "media/interview_qotd/22/02.jpg"
+  ],
+  "caption": "Interview question #22 of 30: What is a flaky test? How do you fix it?\n\nHow would you answer? Write it in the comments, then swipe for a strong answer 👉\nFollow so you don't miss tomorrow's question 🔔\n📌 Free Top-40 QA interview checklist: comment GUIDE under my pinned post and I'll DM it to you.\n\n#qainterview #interviewprep #qa #softwaretesting #qatester #30daychallenge"
+ },
+ {
+  "id": "interview_q_23",
+  "type": "carousel",
+  "files": [
+   "media/interview_qotd/23/01.jpg",
+   "media/interview_qotd/23/02.jpg"
+  ],
+  "caption": "Interview question #23 of 30: What should you automate first?\n\nHow would you answer? Write it in the comments, then swipe for a strong answer 👉\nFollow so you don't miss tomorrow's question 🔔\n📌 Free Top-40 QA interview checklist: comment GUIDE under my pinned post and I'll DM it to you.\n\n#qainterview #interviewprep #qa #softwaretesting #qatester #30daychallenge"
+ },
+ {
+  "id": "interview_q_24",
+  "type": "carousel",
+  "files": [
+   "media/interview_qotd/24/01.jpg",
+   "media/interview_qotd/24/02.jpg"
+  ],
+  "caption": "Interview question #24 of 30: Explain the test automation pyramid.\n\nHow would you answer? Write it in the comments, then swipe for a strong answer 👉\nFollow so you don't miss tomorrow's question 🔔\n📌 Free Top-40 QA interview checklist: comment GUIDE under my pinned post and I'll DM it to you.\n\n#qainterview #interviewprep #qa #softwaretesting #qatester #30daychallenge"
+ },
+ {
+  "id": "interview_q_25",
+  "type": "carousel",
+  "files": [
+   "media/interview_qotd/25/01.jpg",
+   "media/interview_qotd/25/02.jpg"
+  ],
+  "caption": "Interview question #25 of 30: What is the Page Object Model?\n\nHow would you answer? Write it in the comments, then swipe for a strong answer 👉\nFollow so you don't miss tomorrow's question 🔔\n📌 Free Top-40 QA interview checklist: comment GUIDE under my pinned post and I'll DM it to you.\n\n#qainterview #interviewprep #qa #softwaretesting #qatester #30daychallenge"
+ },
+ {
+  "id": "interview_q_26",
+  "type": "carousel",
+  "files": [
+   "media/interview_qotd/26/01.jpg",
+   "media/interview_qotd/26/02.jpg"
+  ],
+  "caption": "Interview question #26 of 30: Implicit vs explicit wait?\n\nHow would you answer? Write it in the comments, then swipe for a strong answer 👉\nFollow so you don't miss tomorrow's question 🔔\n📌 Free Top-40 QA interview checklist: comment GUIDE under my pinned post and I'll DM it to you.\n\n#qainterview #interviewprep #qa #softwaretesting #qatester #30daychallenge"
+ },
+ {
+  "id": "interview_q_27",
+  "type": "carousel",
+  "files": [
+   "media/interview_qotd/27/01.jpg",
+   "media/interview_qotd/27/02.jpg"
+  ],
+  "caption": "Interview question #27 of 30: What is CI/CD? Where do tests run?\n\nHow would you answer? Write it in the comments, then swipe for a strong answer 👉\nFollow so you don't miss tomorrow's question 🔔\n📌 Free Top-40 QA interview checklist: comment GUIDE under my pinned post and I'll DM it to you.\n\n#qainterview #interviewprep #qa #softwaretesting #qatester #30daychallenge"
+ },
+ {
+  "id": "interview_q_28",
+  "type": "carousel",
+  "files": [
+   "media/interview_qotd/28/01.jpg",
+   "media/interview_qotd/28/02.jpg"
+  ],
+  "caption": "Interview question #28 of 30: Little time, lots to test — what do you do?\n\nHow would you answer? Write it in the comments, then swipe for a strong answer 👉\nFollow so you don't miss tomorrow's question 🔔\n📌 Free Top-40 QA interview checklist: comment GUIDE under my pinned post and I'll DM it to you.\n\n#qainterview #interviewprep #qa #softwaretesting #qatester #30daychallenge"
+ },
+ {
+  "id": "interview_q_29",
+  "type": "carousel",
+  "files": [
+   "media/interview_qotd/29/01.jpg",
+   "media/interview_qotd/29/02.jpg"
+  ],
+  "caption": "Interview question #29 of 30: A developer says “it's not a bug”. Now what?\n\nHow would you answer? Write it in the comments, then swipe for a strong answer 👉\nFollow so you don't miss tomorrow's question 🔔\n📌 Free Top-40 QA interview checklist: comment GUIDE under my pinned post and I'll DM it to you.\n\n#qainterview #interviewprep #qa #softwaretesting #qatester #30daychallenge"
+ },
+ {
+  "id": "interview_q_30",
+  "type": "carousel",
+  "files": [
+   "media/interview_qotd/30/01.jpg",
+   "media/interview_qotd/30/02.jpg"
+  ],
+  "caption": "Interview question #30 of 30: Why do you want to work in QA?\n\nHow would you answer? Write it in the comments, then swipe for a strong answer 👉\nFollow so you don't miss tomorrow's question 🔔\n📌 Free Top-40 QA interview checklist: comment GUIDE under my pinned post and I'll DM it to you.\n\n#qainterview #interviewprep #qa #softwaretesting #qatester #30daychallenge"
  }
 ]

@@ -5,7 +5,8 @@
   "files": [
    "media/pinned/1_start_here.jpg"
   ],
-  "caption": "Hi, I'm Kira — a QA engineer 👋\n\nHere I share testing tips for manual and automation testers, interview prep from Junior to Senior and my study notes. Follow for daily QA tips!\n\n#qa #softwaretesting #qatester #sdet #qacommunity"
+  "caption": "Hi, I'm Kira — a QA engineer 👋\n\nHere I share testing tips for manual and automation testers, interview prep from Junior to Senior and my study notes. Follow for daily QA tips!\n\n#qa #softwaretesting #qatester #sdet #qacommunity",
+  "skip": true
  },
  {
   "id": "reel_01_7_testing_principles",

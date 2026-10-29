@@ -123,7 +123,7 @@ def main():
     if not todo:
         print("queue is empty — nothing to post")
         return
-    if gap is not None and gap < MIN_GAP_H and "--force" not in args:
+    if gap is not None and gap < MIN_GAP_H and not args & {"--force", "--dry-run"}:
         print(f"last queue post was {gap:.1f} h ago (< {MIN_GAP_H} h) — not posting now")
         return
     lim = call("GET", f"{uid}/content_publishing_limit", fields="quota_usage,config").get("data", [{}])[0]

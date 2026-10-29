@@ -1,0 +1,45 @@
+{
+ "start": "2026-10-30",
+ "items": [
+  {
+   "id": "01_works_on_my_machine",
+   "file": "media/stories/01_works_on_my_machine.jpg"
+  },
+  {
+   "id": "02_bar_joke",
+   "file": "media/stories/02_bar_joke.jpg"
+  },
+  {
+   "id": "03_tests_passed_first_try",
+   "file": "media/stories/03_tests_passed_first_try.jpg"
+  },
+  {
+   "id": "04_small_change",
+   "file": "media/stories/04_small_change.jpg"
+  },
+  {
+   "id": "05_friday_deploy",
+   "file": "media/stories/05_friday_deploy.jpg"
+  },
+  {
+   "id": "06_cannot_reproduce",
+   "file": "media/stories/06_cannot_reproduce.jpg"
+  },
+  {
+   "id": "07_sleep_vs_wait",
+   "file": "media/stories/07_sleep_vs_wait.jpg"
+  },
+  {
+   "id": "08_flaky_stages",
+   "file": "media/stories/08_flaky_stages.jpg"
+  },
+  {
+   "id": "09_how_long_to_test",
+   "file": "media/stories/09_how_long_to_test.jpg"
+  },
+  {
+   "id": "10_family_explain",
+   "file": "media/stories/10_family_explain.jpg"
+  }
+ ]
+}

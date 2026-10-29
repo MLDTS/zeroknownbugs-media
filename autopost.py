@@ -9,7 +9,8 @@ usage:
 Needs IG_USER_ID in the environment. The access token is added to every request to graph.facebook.com
 by the environment (network secret), so this script never sees or prints it.
 Stateless: an item counts as published when a post on the account starts with the item's first caption line,
-so re-running never posts the same item twice. Nothing is published if a queue item went out in the last 18 hours.
+so re-running never posts the same item twice. Nothing is published if a queue item went out in the last 12 hours.
+  --only=ID   publish (or dry-run) that queue item instead of the next one (add --force to skip the 12 h gap)
 Media URLs: MEDIA_BASES (first that Instagram accepts wins).
 """
 import json, os, sys, time, urllib.parse, urllib.request
@@ -20,7 +21,7 @@ API = "https://graph.facebook.com/v21.0"
 HERE = Path(__file__).resolve().parent
 REPO = os.environ.get("MEDIA_REPO", "MLDTS/zeroknownbugs-media")
 MEDIA_BASES = [f"https://cdn.jsdelivr.net/gh/{REPO}@main/", f"https://raw.githubusercontent.com/{REPO}/main/"]
-MIN_GAP_H = 18
+MIN_GAP_H = 12
 
 
 def call(method, path, **params):
@@ -105,7 +106,7 @@ def container(uid, item, base):
 
 
 def main():
-    args = set(sys.argv[1:])
+    args = {a for a in sys.argv[1:] if not a.startswith("--only=")}
     uid = os.environ.get("IG_USER_ID") or sys.exit("IG_USER_ID is not set")
     acc = call("GET", uid, fields="username,media_count")
     print(f"account @{acc['username']} · {acc['media_count']} posts")
@@ -128,6 +129,9 @@ def main():
         return
     lim = call("GET", f"{uid}/content_publishing_limit", fields="quota_usage,config").get("data", [{}])[0]
     print(f"publishing quota used: {lim.get('quota_usage')} / {lim.get('config', {}).get('quota_total')}")
+    only = next((a.split("=", 1)[1] for a in sys.argv[1:] if a.startswith("--only=")), None)
+    if only:
+        todo = [it for it in todo if it["id"] == only] or sys.exit(f"{only} is not in the queue or already published")
     item = todo[0]
     print(f"next: {item['id']} ({item['type']}, {len(item['files'])} file(s))\n  {first_line(item['caption'])}")
     for base in MEDIA_BASES:

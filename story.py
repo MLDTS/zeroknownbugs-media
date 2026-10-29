@@ -20,6 +20,8 @@ def main():
     uid = os.environ.get("IG_USER_ID") or sys.exit("IG_USER_ID is not set")
     cfg = json.loads((HERE / "stories.json").read_text())
     day = (datetime.now(KYIV).date() - datetime.strptime(cfg["start"], "%Y-%m-%d").date()).days
+    if dry and not 0 <= day < len(cfg["items"]):
+        day = 0  # dry run before/after the schedule: test with the first item
     if day < 0 or day >= len(cfg["items"]):
         print(f"no story for today (day {day} of {len(cfg['items'])}) — nothing to post")
         return
